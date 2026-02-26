@@ -8,6 +8,16 @@ h1 {
   color: #000080;
 }
 
+.hero-container {
+  display: flex;
+}
+
+.hero-container img {
+  border:1px solid:#000000 
+  border-radius: 5px;
+  width:200px;
+}
+
 h2 {
   color: #3030a8;
   background-color: rgb(143, 219, 245);
