@@ -14,3 +14,8 @@ console.log("The current hour is: " + hour);
 
 document.getElementById('time').textContent = time
 document.getElementById('copyright').textContent = `Copyright © ${year} Monica N`
+
+const personalStatement = document.querySelector('.highlight')
+personalStatement.style.backgroundColor = '#EEFFDB'
+
+alert("Thanks for visiting my profile.")
