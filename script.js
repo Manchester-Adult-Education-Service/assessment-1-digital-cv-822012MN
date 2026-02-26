@@ -8,3 +8,4 @@ if (hour <12) {
     nameHeading.textContent = "Good Evening, Monica";
 
 }
+console.log("The current hour is: " + hour);
