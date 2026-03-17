@@ -1,11 +1,11 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #d3d3d3;
-  color: #000000;
+  background-color: hsl(0, 0%, 83%);
+  color: hsl(0, 81%, 48%);
 }
 
 h1 {
-  color: #66101F;
+  color: #6b9c1b;
 }
 
 .hero-container {
@@ -14,14 +14,14 @@ h1 {
 
 .hero-container img {
   border:1px solid;
-  color: #000000; 
+  color: #141413; 
   border-radius: 5px;
   width:200px;
 }
 
 h2 {
-  color: #3030a8;
-  background-color: #8fdbf5;
+  color: #000000;
+  background-color: #0f0f0f;
   padding: 8px;
   margin-top: 20px;
   margin-bottom: 8px;
@@ -33,7 +33,7 @@ p {
 }
 
 li {
-  color: #006400;
+  color: #111111;
   margin-bottom: 6px;
 }
 
@@ -41,7 +41,7 @@ header {
   background-color: rgb(249, 250, 252);
   padding: 16px;
   margin: 16px;
-  border: 2px solid #808080;
+  border: 2px solid #709c36;
 }
 
 main {
@@ -49,7 +49,7 @@ main {
   padding: 16px;
   margin: 20px auto;
   width: 80%;
-  border: 2px solid oklab(59.987% 0 -0.00007);
+  border: 2px solid oklab(20.019000000000002% 0 -0.00002);
 }
 
 ul, ol {
@@ -69,7 +69,7 @@ a:hover {
 
 img {
   width: 200px;
-  border: 2px solid grey;
+  border: 2px solid rgb(23, 24, 23);
 }
 
 footer {
@@ -79,6 +79,6 @@ footer {
 
 .highlight {
   background-color: #ffffe0;
-  border: 2px solid #006400;
+  border: 2px solid #111111ea;
   padding: 10px;
 }
